@@ -9,6 +9,4 @@ In order to move a piece, click on the piece you wish to move, and then click on
 
 ## How to run the game
 
-In order to run the game, download the entire source code as a ZIP file from GitHub. You can run the executable through command prompt or manually clicking it, either way works. IMPORTANT: make sure the chess_sprites directory with the saved images are in the same directory as the executable, otherwise it will crash. The game is meant to be played with 2 players locally, with swapping the computer after each turn (so you can't see opposing side's pieces).
-
-Alternatively, you could run it through python by running main.py, ensuring view.py and chess_sprites are in the same directory. Additionally, you will need to pip install chess and pip install pygame in order for the code to function.
+In order to run the game, download chess-battleship.zip, extract the file contents (making sure to keep chess_sprites folder in the same directory as the executable) and then run main.exe to play the game. The rest of the files in the repo are the source code.
